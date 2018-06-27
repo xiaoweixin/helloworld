@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/HelloWorld/HelloWorld.VC.db
+/HelloWorld/HelloWorld.VC.VC.opendb
+/HelloWorld/ipch/HELLOWORLD-6cdaa34a
